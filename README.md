@@ -1,0 +1,4 @@
+HaskellNotes
+============
+
+Notes on Haskell
